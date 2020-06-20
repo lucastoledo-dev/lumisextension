@@ -1,0 +1,26 @@
+.wkm-search-service-portal{
+  margin: 6px 10px 0;
+  height: 30px;
+  font-size: 13px;
+  border-radius: 3px;
+  border: 1px solid #cdcdcd;
+} 
+.wkm-search-service-portal:hover, .wkm-search-service-portal:focus{ 
+  outline-color: #fba637;
+} 
+#LumisAdminChannelTree{
+  top: 90px;
+}
+
+.wkm-search-service-admin{
+  margin-bottom: 25px;
+  width: 100%;
+  height: 30px;
+  margin-top: 9px;
+  border: 1px solid #cdcdcd;
+  border-radius: 3px;
+  font-size: 13px;
+}
+.wkm-search-service-admin:hover,.wkm-search-service-admin:focus{
+  outline-color: #fba637;
+}
