@@ -8,4 +8,3 @@
 <span class="hljs-number">4</span> - Habilitar o modo desenvolvedor. <span class="hljs-string">"Developer mode"</span>
 <span class="hljs-number">5</span> - Subir a nova extensão apontando para a pasta onde o zip foi extraído.
 </code></pre>
-<p class="has-line-data" data-line-start="19" data-line-end="20"><strong>Free Software, Hell Yeah!</strong></p>
